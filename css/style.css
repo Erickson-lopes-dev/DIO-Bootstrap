@@ -19,3 +19,12 @@ body {
 .parceiros{
     background-color: coral;
 }
+
+.servicos{
+    background-color: lightblue;
+}
+
+.bg-footer{
+    background-color: coral;
+    color: white;
+}
