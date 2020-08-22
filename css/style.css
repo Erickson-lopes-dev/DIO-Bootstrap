@@ -1,7 +1,16 @@
-.navbar{
-    background-color: red;
+.navbar {
+    background-color: coral;
 }
 
-.quem_somos{
+#quem_somos {
     background-color: lightblue;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+}
+
+body {
+    font-family: verdana;
 }
